@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # 🏁 Saudi GP 2025 — F1 Telemetry & Race Strategy Dashboard
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Click%20to%20Open-brightgreen?style=for-the-badge&logo=streamlit)](https://fastf1saudigp-da2vzh4yghe5hy66j6hrwa.streamlit.app/)
 
 This interactive dashboard compares **Carlos Sainz Jr. (Williams)** vs **Lewis Hamilton (Ferrari)** in the 2025 Saudi Arabian Grand Prix — using telemetry, tire strategy, position charts and lap-time degradation.
 
