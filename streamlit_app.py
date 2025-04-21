@@ -8,9 +8,11 @@ import seaborn as sns
 from matplotlib.colors import ListedColormap
 
 # Cache Configuration
-if not os.path.exists('cache'):
-    os.makedirs('cache')
-fastf1.Cache.enable_cache('cache')
+from pathlib import Path
+
+Path("cache").mkdir(exist_ok=True)
+fastf1.Cache.enable_cache("cache")
+
 
 # Visualization Setup
 plt.style.use('ggplot')
